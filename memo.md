@@ -2,7 +2,7 @@
 
 **Research evidence memo**  
 **Evidence cut-off:** 18 August 2026  
-**Status:** AI-assisted research memo; sources, calculations, conclusions, and disclosure reviewed and approved by Tripti
+**Status:** Research memo; sources, calculations, conclusions, and disclosure reviewed and approved by Tripti
 
 ## Executive verdict
 
