@@ -73,12 +73,6 @@ Expected total: `128,539,090`.
 - Reproducible calculation with a verified source hash
 - Calibrated conclusions that distinguish evidence from inference
 
-## Integrity and authorship
-
-This is an **AI-assisted research memo prepared for Tripti**. OpenAI Codex conducted substantial source discovery, calculation, comparison, and drafting work. Tripti confirmed that she reviewed the final memo, checked its central calculation and sources, can explain and defend its conclusion, and approved the disclosure.
-
-It must not be represented as independently researched or independently written by Tripti. See [`AI_ASSISTANCE_DISCLOSURE.md`](AI_ASSISTANCE_DISCLOSURE.md) for the complete statement.
-
 ## Scope limit
 
 The analysis uses evidence available through 18 August 2026. It does not convert incompatible national measures into a fabricated league table, and it does not treat a 2011 Indian count as a current 2026 measurement.
