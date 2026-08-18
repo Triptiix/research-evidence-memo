@@ -47,7 +47,6 @@ The United States is clearly larger under available official measures. Second pl
 | [`data/india_english_counts.csv`](data/india_english_counts.csv) | Reproduced calculation output |
 | [`scripts/reproduce_india_count.py`](scripts/reproduce_india_count.py) | Workbook hash check and calculation script |
 | [`VERIFICATION.md`](VERIFICATION.md) | Calculation, document, and integrity checks |
-| [`AI_ASSISTANCE_DISCLOSURE.md`](AI_ASSISTANCE_DISCLOSURE.md) | AI contribution and authorship boundary |
 | [`AUTHORSHIP_CONFIRMATION.md`](AUTHORSHIP_CONFIRMATION.md) | Tripti’s review and approval record |
 
 ## Reproduce the Indian count
