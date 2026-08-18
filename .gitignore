@@ -1,0 +1,9 @@
+# Official source workbook is downloaded separately and hash-checked.
+DDW-C17-0000.XLSX
+*.xlsx
+
+# Local/editor files
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/

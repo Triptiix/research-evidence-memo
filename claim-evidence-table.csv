@@ -1,0 +1,10 @@
+claim_id,claim,evidence_for,evidence_against,verdict,confidence
+C01,"India Census 2011 recorded about 128.5 million people naming English among up to three languages","Official C-17 workbook calculation: 259678 + 82717239 + 45562173","C-17 does not test proficiency","Verified as a census-table count",High
+C02,"The correct reproducible C-17 total is 128539090","Scripted calculation with workbook hash check","Some secondary sources publish 129.3m using different component values","Verified for the downloaded official all-India workbook",High
+C03,"The United States has a larger English-speaking population than India","2024 ACS has 247695110 English-only-at-home age 5+ and 292827195 English-only-or-very-well","Question and age universe differ from India","Verified directionally; exact cross-country ratio not comparable",High
+C04,"India is second-largest globally","No located official comparator count exceeds India; claim widely repeated","No harmonized global table; major countries lack equivalent counts; India data are from 2011","Plausible historical shorthand, not verified rank",Medium-low
+C05,"The claim is current as of August 2026","Census 2027 is underway","Latest completed Indian language table remains 2011","Not supported",High
+C06,"129.3 million is the official India total","Secondary sources repeat approximately 129m","Official C-17 workbook reproduces 128539090","Reject exact 129.3m figure unless a different official table is identified",High
+C07,"EF EPI can validate the population ranking","It compares proficiency scores across many countries","Self-selected online adult sample; reports scores rather than national speaker counts","Not suitable",High
+C08,"Official national statistics are directly comparable","All are produced by national statistical authorities","Definitions include languages known, home language, main language, conversation ability, and self-rated proficiency","False",High
+C09,"A qualified sentence can be used responsibly","Date, measure, and comparability caveat can be stated concisely","Qualification reduces rhetorical simplicity","Supported and recommended",High
