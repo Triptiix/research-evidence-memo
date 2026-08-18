@@ -8,9 +8,9 @@
 
 `research` `fact-checking` `source-validation` `data-analysis` `reproducible-research` `census-data`
 
-**Visibility:** Public, but only after the final pre-publication checklist passes.
+**Visibility:** Public as of 18 August 2026, after Tripti approved publication and the final pre-publication checklist passed.
 
-**Pin order after publication:**
+**Suggested pin order (not applied as part of the publication approval):**
 
 1. `research-evidence-memo`
 2. `olist-commerce-360`

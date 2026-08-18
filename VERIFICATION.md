@@ -29,4 +29,5 @@ Verification date: 18 August 2026
 
 - The memo’s AI assistance is explicitly disclosed.
 - On 18 August 2026, Tripti confirmed that she reviewed the final memo, checked its central calculation and sources, can explain and defend its conclusion, and approved the disclosure.
-- The package has not been published or submitted externally.
+- Tripti approved publication of the package to GitHub on 18 August 2026.
+- No job application or Mercor submission has been made from this workspace.
